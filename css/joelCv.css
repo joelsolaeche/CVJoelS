@@ -1,0 +1,51 @@
+.parteIzquierda{
+    height: 100%;
+    background-color: #3C4749;
+
+}
+
+.photo{
+    width: 100%;
+    margin:20px 0;
+}
+.photo img{
+    width: 90%;
+    height: 300px;
+    margin: 20px 20px;
+    border-radius: 20px;
+
+}
+
+.infoPersonal{
+    padding: 10px 20px;
+    font-size: large;
+    line-height: 1.7em;
+}
+
+.contenedorTitulo{
+    width: 100%;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin-top: 0;
+}
+
+header{
+    background-color: #3C4749;
+    width: 100%;
+}
+
+.pagina, .row{
+    width: 1440px;
+    height: 1024px;
+}
+
+.acercaDeMi{
+    background: #828282;
+    width: 100%;
+    height: 959px;
+}
+
+.texto p{
+    line-height: 2.5em;
+}
