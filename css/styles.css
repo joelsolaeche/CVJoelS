@@ -1,0 +1,13 @@
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.parteizquierda{
+  height: 100%;
+  background-color: #3C4749;
+
+}
+
+.photo img{
+  width: 300px;
+}
