@@ -2,6 +2,8 @@ p {
     font-family: 'Roboto', sans-serif;
 }
 
+.pagina mx-auto my-auto
+
 .parteIzquierda{
     height: 100%;
     background-color: #3C4749;
